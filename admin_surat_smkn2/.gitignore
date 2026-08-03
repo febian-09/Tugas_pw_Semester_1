@@ -1,0 +1,13 @@
+# Mengabaikan file sistem operasi
+Thumbs.db
+.DS_Store
+db
+db_surat.sql
+
+# Mengabaikan file konfigurasi database pribadi (jika ada)
+.env
+config_local.php
+
+# Mengabaikan file sampah dari editor
+.vscode/
+.idea/
